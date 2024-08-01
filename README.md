@@ -10,5 +10,5 @@ The superiority of Convolutional Neural Networks (CNNs) in image processing is v
 
 This repository contains two '.py' files (one for each type network) and a '.pdf' file of the detailed project report.
 
-Language used : Python
+Language used : Python, 
 Modules used : PyTorch , sklearn, Matplotlib
