@@ -1,6 +1,6 @@
 # Handwritten_digits_recognition
 
-Classifying MNIST handwritten digits: A comparison between a CNN architecture and a non convolutional neural network.
+Classifying MNIST handwritten digits: A comparison between a CNN architecture and a non-convolutional neural network.
 
 ![image](https://github.com/user-attachments/assets/ef4fe1ed-fe9f-40cb-b6b1-0d13aa64728d)
 
