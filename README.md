@@ -8,4 +8,7 @@ This project deals with the classic problem of handwritten digits recognition. T
 image classification networks. The significance of the evaluation phase during model training and the necessity of having a sufficient number of images are discussed.
 The superiority of Convolutional Neural Networks (CNNs) in image processing is validated through evidence.
 
-This repository contains a '.py' code file and a '.pdf' file of the detailed project report.
+This repository contains two '.py' files (one for each type network) and a '.pdf' file of the detailed project report.
+
+Language used : Python
+Modules used : PyTorch , sklearn, Matplotlib
